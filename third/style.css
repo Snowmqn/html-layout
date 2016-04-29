@@ -1,0 +1,60 @@
+/*<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div></div>
+    </header>
+    <p></p>
+    <div class="first"></div>
+    <div class="second"></div>
+    <div class="third"></div>
+    <div class="fourth"></div>
+</body>
+</html>*/
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #fff;
+  width: 100%;
+  hight: 100px;
+}
+
+header div {
+  position: relative;
+  top: 13px;
+  left: 13px;
+  background-color: #fff;
+  width: 74px;
+  hight: 74px;
+}
+
+.first {
+  background-color: #fff;
+  width: 100%;
+  hight: 100px;
+}
+
+.second {
+  background-color: #fff;
+  width: 100%;
+  hight: 100px;
+}
+
+.third {
+  background-color: #fff;
+  width: 100%;
+  hight: 100px;
+}
+
+.fourth {
+  background-color: #fff;
+  width: 100%;
+  hight: 100px;
+}

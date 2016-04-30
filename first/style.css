@@ -1,0 +1,25 @@
+body {
+    margin: 0px;
+    background-color: #D8D8D8;
+}
+
+header {
+    width: 100%;
+    height: 150px;
+    background-color: #444444;
+}
+
+div {
+    height: 70%;
+    min-height: 500px;
+    width: 60%;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+footer {
+    background-color: #222222;
+    width: 60%;
+    height: 50px;
+    margin: 0 auto;
+}
